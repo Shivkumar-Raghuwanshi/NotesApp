@@ -21,8 +21,6 @@ This is a RESTful API built with Django and Django REST Framework for a note-tak
  - [Update a Note](#update-a-note)
  - [Retrieve Note History](#retrieve-note-history)
 - [Testing](#testing)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -52,10 +50,10 @@ This is a RESTful API built with Django and Django REST Framework for a note-tak
 - **SQLite3**: The database used for storing user, note, and note history data.
 
 ## Installation
-1. Clone the repository: git clone https://github.com/your-repo/note-app.git
-2. Install the required dependencies: 
-cd note-app 
-pip install -r requirements.txt
+1. Clone the repository: git clone https://github.com/Shivkumar-Raghuwanshi/NotesApp.git
+2. Install the required dependencies: cd NotesApp pip install -r requirements.txt
+
+
 
 3. Configure the database settings in the `settings.py` file.
 
